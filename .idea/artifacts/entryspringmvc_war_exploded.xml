@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="entryspringmvc:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/entryspringmvc_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="entryspringmvc" />
+          <element id="module-output" name="springmvc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="libmvcmybatis" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="entryspringmvc/web/Web" />
+    </root>
+  </artifact>
+</component>
