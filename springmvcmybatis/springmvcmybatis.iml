@@ -33,6 +33,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="libmvcmybatis" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 7.0.90" level="application_server_libraries" />
+    <orderEntry type="library" exported="" name="apache-tomcat-8.0" level="project" />
+    <orderEntry type="library" name="ssmcrm" level="project" />
   </component>
 </module>

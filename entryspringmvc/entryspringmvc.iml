@@ -26,9 +26,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/config" type="java-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="MyJDK1.8" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 7.0.90" level="application_server_libraries" />
     <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" exported="" name="apache-tomcat-8.0" level="project" />
   </component>
 </module>

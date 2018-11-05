@@ -6,9 +6,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="entryspringmvc" />
           <element id="module-output" name="springmvc" />
+          <element id="library" level="project" name="apache-tomcat-8.0" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="libmvcmybatis" />
+          <element id="library" level="project" name="ssmcrm" />
           <element id="library" level="project" name="lib" />
         </element>
       </element>

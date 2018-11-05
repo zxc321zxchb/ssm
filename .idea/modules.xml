@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/crm/crm.iml" filepath="$PROJECT_DIR$/crm/crm.iml" />
       <module fileurl="file://$PROJECT_DIR$/entryspringmvc/entryspringmvc.iml" filepath="$PROJECT_DIR$/entryspringmvc/entryspringmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc.iml" filepath="$PROJECT_DIR$/springmvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springmvcmybatis/springmvcmybatis.iml" filepath="$PROJECT_DIR$/springmvcmybatis/springmvcmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-test/ssm-test.iml" filepath="$PROJECT_DIR$/ssm-test/ssm-test.iml" />
     </modules>
   </component>
 </project>
